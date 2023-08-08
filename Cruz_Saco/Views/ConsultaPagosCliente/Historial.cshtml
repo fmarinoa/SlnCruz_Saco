@@ -1,0 +1,136 @@
+﻿@model IEnumerable<Cruz_Saco.Models.Historial>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Historial</title>
+    <script type="text/javascript">
+
+    $(function () 
+    {        
+        $.ajax({
+            type: "POST",
+            url: '@Url.Action("ListarMenu","Home")',
+            dataType: "json",
+            contentType: "application/json; charset=utf-8",
+            success: function (data) {
+            
+                // variable que acumulará la construccion del menu dinamico
+                var html = '';
+
+                // variable que me ayuda a controlar la iteracion, si es un cambio de padre/opcion principal
+                var Cod_Padre = -1;
+
+                data.forEach(function (item) 
+                {
+                    //debugger;
+                    // Es un registro de tipo padre?
+                    if (item.cod_Padre == 0)
+                    {
+                        if (Cod_Padre != -1)
+                        {
+                            html = html + '</div>' +
+                                '</li>';
+                        }
+
+                        Cod_Padre = item.cod_Padre
+
+                        html = html + '<li class="nav-item dropdown">' +
+                            '<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">' +
+                            item.nombre +
+                            '</a>' +
+                            '<div class="dropdown-menu" aria-labelledby="navbarDropdown">';
+                    }
+                    else
+                    {
+                        html = html + '<a class="dropdown-item" href="' + item.ruta + '">' + item.nombre + '</a>';
+                    }
+                });
+
+                // Completo el cierre de etiquetas div y li de la ultima iteracion
+                html = html + '</div>' +
+                                '</li>';
+
+                // Agrego estaticamente la opcion de cerrar sesion
+                html = html + '<li class="nav-item">' +
+                    '<a class="nav-link text-dark" href="/Seguridad/Index">Cerrar Sesión</a>' +
+                    '</li>';
+
+                // Inserto la variable html dentro del elemento ul
+                $("#ulOpciones").append(html);
+
+            },
+            error: function () {
+                alert("Error while inserting data");
+            }
+        });
+    });
+
+</script>
+</head>
+<body>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nro_Cuota)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha_Vencimiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha_Pago)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hora_Pago)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Monto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nro_Cuota)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha_Vencimiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha_Pago)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hora_Pago)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Monto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>
+</body>
+</html>

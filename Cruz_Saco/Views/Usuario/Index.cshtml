@@ -1,0 +1,177 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Usuarios</title>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.3/css/jquery.dataTables.min.css">
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.13.3/js/jquery.dataTables.min.js"></script>
+    <style>
+        *{margin:0 auto;padding0}
+        h1{
+            text-align: center;
+            margin:50px
+        }
+        /* Cambiar el color de fondo de la tabla */
+        #myTable {
+            background-color: #fff;
+        }
+
+            /* Dar un borde a las celdas de la tabla */
+            #myTable td {
+                border: 1px solid #ccc;
+                padding: 10px;
+            }
+
+            /* Establecer un color de fondo alternativo para las filas */
+            #myTable tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+            
+    </style>
+</head>
+<body>
+    <h1>Mantenimiento de Usuarios</h1>
+    
+
+
+    <div class="container">
+        <table id="myTable" class="table">
+            <thead>
+                <tr>
+                    <th>Fila</th>
+                    <th>Codigo</th>
+                    <th>Usuario</th>
+                    <th>Perfil</th>
+                    <th>Estado</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+
+    <script>
+        $(document).ready(function () {
+            $('#myTable').DataTable({
+                "searching": true,
+                "processing": true,
+                "serverSide": true,
+                "ajax": {
+                    "url": '@Url.Action("ListarUsuario","Usuario")',
+                    "type": "POST",
+                    "dataType": "json",
+                    "error": function (xhr, error, thrown) {
+                        console.log("Error en la petición AJAX: " + error);
+                        console.log("Mensaje de error: " + thrown);
+                    }
+                },
+                "columns": [
+                    { "data": "fila" },
+                    { "data": "codigo" },
+                    { "data": "usuario" },
+                    { "data": "perfil" },
+                    { "data": "estado" }
+                    //{ "data": "fila", "name": "fila", "autoWidth": true },
+                    //{ "data": "codigo", "name": "codigo", "autoWidth": true },
+                    //{ "data": "usuario", "name": "usuario", "autoWidth": true },
+                    //{ "data": "perfil", "name": "perfil", "autoWidth": true },
+                    //{ "data": "estado", "name": "estado", "autoWidth": true },
+                ]
+            });
+
+            // Agregar el input del search en el encabezado de la tabla
+            $('#myTable thead tr').clone(true).appendTo('#myTable thead');
+            $('#myTable thead tr:eq(1) th').each(function (i) {
+                var title = $(this).text();
+                $(this).html('<input type="text" placeholder="Buscar ' + title + '" />');
+
+                $('input', this).on('keyup change', function () {
+                    if (table.column(i).search() !== this.value) {
+                        table
+                            .column(i)
+                            .search(this.value)
+                            .draw();
+                    }
+                });
+            });
+
+            // Obtener la instancia de la tabla
+            var table = $('#myTable').DataTable();
+
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("ListarMenu","Usuario")',
+                //data: JSON.stringify(nPerfil),
+                dataType: "json",
+                contentType: "application/json; charset=utf-8",
+                success: function (data) {
+            
+                    // variable que acumulará la construccion del menu dinamico
+                    var html = '';
+
+                    // variable que me ayuda a controlar la iteracion, si es un cambio de padre/opcion principal
+                    var Cod_Padre = -1;
+
+                    data.forEach(function (item) 
+                    {
+                        //debugger;
+                        // Es un registro de tipo padre?
+                        if (item.cod_Padre == 0)
+                        {
+                            if (Cod_Padre != -1)
+                            {
+                                html = html + '</div>' +
+                                    '</li>';
+                            }
+
+                            Cod_Padre = item.cod_Padre
+
+                            html = html + '<li class="nav-item dropdown">' +
+                                '<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">' +
+                                item.nombre +
+                                '</a>' +
+                                '<div class="dropdown-menu" aria-labelledby="navbarDropdown">';
+                        }
+                        else
+                        {
+                            html = html + '<a class="dropdown-item" href="' + item.ruta + '">' + item.nombre + '</a>';
+                        }
+                    
+                    });
+
+                    // Completo el cierre de etiquetas div y li de la ultima iteracion
+                    html = html + '</div>' +
+                                    '</li>';
+
+                    // Agrego estaticamente la opcion de cerrar sesion
+                    html = html + '<li class="nav-item">' +
+                        '<a class="nav-link text-dark" href="/Seguridad/Index">Cerrar Sesión</a>' +
+                        '</li>';
+
+                    // Inserto la variable html dentro del elemento ul
+                    $("#ulOpciones").append(html);
+
+                },
+                error: function () {
+                    alert("Error while inserting data");
+                }
+            });
+
+        });
+
+
+    </script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    
+
+</body>
+</html>

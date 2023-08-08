@@ -1,0 +1,65 @@
+﻿@model Cruz_Saco.Models.Matricula
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Nuevo Año</title>
+</head>
+<body>
+
+<h4>Matricula</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Año" class="control-label"></label>
+                <input asp-for="Año" class="form-control" />
+                <span asp-validation-for="Año" class="text-danger"></span>
+            </div>
+                <div class="form-group">
+                    <label asp-for="PrimerDíaDeClases" class="control-label"></label>
+                    <input asp-for="PrimerDíaDeClases" type="date" class="form-control" />
+                    <span asp-validation-for="PrimerDíaDeClases" class="text-danger"></span>
+                </div>
+
+            <div class="form-group">
+                    <label asp-for="Costo" class="control-label"></label>
+                    <input asp-for="Costo" class="form-control" />
+                    <span asp-validation-for="Costo" class="text-danger"></span>
+            </div>
+           <!-- <div class="form-group">
+                <label asp-for="costostr" class="control-label"></label>
+                <input asp-for="costostr" class="form-control" />
+                <span asp-validation-for="costostr" class="text-danger"></span>
+                 </div>-->
+            <!--div class="form-group">
+                <label asp-for="dia_pago" class="control-label"></label>
+                <input asp-for="dia_pago" class="form-control" />
+                <span asp-validation-for="dia_pago" class="text-danger"></span>
+            </!--div>-->
+            <!--div class="form-group">
+                <label asp-for="estado" class="control-label"></label>
+                <input asp-for="estado" class="form-control" />
+                <span asp-validation-for="estado" class="text-danger"></span>
+            </!--div>-->
+            <div class="form-group">
+                <input type="submit" value="Iniciar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Regresar al listado</a>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,96 @@
+﻿@model Cruz_Saco.Models.Apoderado
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml"; 
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Editar</title>
+    <style>
+        .form-group select {
+            width: 100%;
+            height: 2.5rem;
+            margin-top: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+
+<h4>Apoderado</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Código" class="control-label"></label>
+                <input asp-for="Código" class="form-control" readonly="readonly" />
+                <span asp-validation-for="Código" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                    <label asp-for="Usuario" class="control-label"></label>
+                @*<input asp-for="Usuario" class="form-control" />*@
+                    <select asp-for="Usuario" asp-items="@(new SelectList(Model.Usuarios, "Código", "Usuario"))">
+                    <option value="">-- Seleccionar Usuario --</option>
+                </select>
+                    <span asp-validation-for="Usuario" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Apellido_Paterno" class="control-label"></label>
+                <input asp-for="Apellido_Paterno" class="form-control" />
+                <span asp-validation-for="Apellido_Paterno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Apellido_Materno" class="control-label"></label>
+                <input asp-for="Apellido_Materno" class="form-control" />
+                <span asp-validation-for="Apellido_Materno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fecha_Nacimiento" class="control-label"></label>
+                <input asp-for="Fecha_Nacimiento" type="date"class="form-control" />
+                <span asp-validation-for="Fecha_Nacimiento" class="text-danger"></span>
+            </div>
+                
+                <div class="form-group">
+                    <label asp-for="Parentesco" class="control-label"></label>
+                    <select asp-for="Parentescoss" asp-items="@(new SelectList(Model.Parentescos, "valor", "nombre"))">
+                        <option value="">-- Seleccionar Parentesco --</option>
+                    </select>
+                    <span asp-validation-for="Parentescoss" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Tipo_Documento" class="control-label"></label>
+                    <select asp-for="Tipo_Documentoo" asp-items="@(new SelectList(Model.Tipo_Doc, "valor", "nombre"))">
+                        <option value="">-- Seleccionar Tipo de documeto --</option>
+                    </select>
+                    <span asp-validation-for="Tipo_Documento" class="text-danger"></span>
+                </div>
+            <div class="form-group">
+                <label asp-for="Número_Documento" class="control-label"></label>
+                <input asp-for="Número_Documento" class="form-control" type="number" />
+                <span asp-validation-for="Número_Documento" class="text-danger"></span>
+            </div>
+         
+            
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</body>
+</html>

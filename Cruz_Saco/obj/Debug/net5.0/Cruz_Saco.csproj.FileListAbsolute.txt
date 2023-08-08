@@ -1,0 +1,1212 @@
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.json
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.exe
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.deps.json
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.dev.json
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\scopedcss\bundle\Cruz_Saco.styles.css
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Manifest.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Pack.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.Cruz_Saco.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.build.Cruz_Saco.props
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Cruz_Saco.props
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Cruz_Saco.props
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.input.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.output.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorCoreGenerate.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CopyComplete
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\refint\Cruz_Saco.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\ref\Cruz_Saco.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Humanizer.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Seguridad\Index.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.pdb
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.pdb
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Index.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Create.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Edit.cshtml.g.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Delete.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.json
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.exe
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.deps.json
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.json
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.dev.json
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.AssemblyReference.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfoInputs.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfo.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\scopedcss\bundle\Cruz_Saco.styles.css
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Manifest.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.input.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.output.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorCoreGenerate.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Seguridad\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Create.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Delete.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Edit.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CopyComplete
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\refint\Cruz_Saco.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.genruntimeconfig.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\ref\Cruz_Saco.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Pago\Index.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.json
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.exe
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.deps.json
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.json
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.dev.json
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Humanizer.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.pdb
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.pdb
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.AssemblyReference.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfoInputs.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfo.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CoreCompileInputs.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\scopedcss\bundle\Cruz_Saco.styles.css
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Manifest.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Pack.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.Cruz_Saco.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.build.Cruz_Saco.props
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Cruz_Saco.props
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Cruz_Saco.props
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.input.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.output.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorCoreGenerate.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Pago\Index.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Seguridad\Index.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Create.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Delete.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Edit.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Index.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CopyComplete
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\refint\Cruz_Saco.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.genruntimeconfig.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\ref\Cruz_Saco.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Informe\InformePagos.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\AperturarAño\Index.cshtml.g.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\AperturarAño\Create.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.json
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.exe
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.deps.json
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.json
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.dev.json
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.AssemblyReference.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfoInputs.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfo.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\scopedcss\bundle\Cruz_Saco.styles.css
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Manifest.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.input.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.output.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorCoreGenerate.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\AperturarAño\Create.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\AperturarAño\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Informe\InformePagos.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Pago\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Seguridad\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Create.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Delete.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Edit.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CopyComplete
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\refint\Cruz_Saco.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.genruntimeconfig.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\ref\Cruz_Saco.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ClosedXML.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Irony.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\SixLabors.Fonts.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\XLParser.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.json
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.exe
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.deps.json
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.json
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.dev.json
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ClosedXML.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Humanizer.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Irony.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\SixLabors.Fonts.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\XLParser.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.pdb
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.pdb
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.AssemblyReference.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfoInputs.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfo.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CoreCompileInputs.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\scopedcss\bundle\Cruz_Saco.styles.css
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Manifest.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Pack.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.Cruz_Saco.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.build.Cruz_Saco.props
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Cruz_Saco.props
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Cruz_Saco.props
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.input.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.output.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorCoreGenerate.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\AperturarAño\Create.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\AperturarAño\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Informe\InformePagos.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Pago\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Seguridad\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Create.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Delete.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Edit.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CopyComplete
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\refint\Cruz_Saco.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.genruntimeconfig.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\ref\Cruz_Saco.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.Development.json
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.json
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.exe
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.deps.json
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.json
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.dev.json
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.pdb
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ClosedXML.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Humanizer.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Irony.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\SixLabors.Fonts.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\XLParser.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.pdb
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.pdb
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.AssemblyReference.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfoInputs.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfo.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CoreCompileInputs.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.MvcApplicationPartsAssemblyInfo.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\scopedcss\bundle\Cruz_Saco.styles.css
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Manifest.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Pack.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.Cruz_Saco.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.build.Cruz_Saco.props
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Cruz_Saco.props
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Cruz_Saco.props
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.input.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.output.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorCoreGenerate.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\AperturarAño\Create.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\AperturarAño\Index.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Informe\InformePagos.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Pago\Index.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Seguridad\Index.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Create.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Delete.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Edit.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Index.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CopyComplete
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\refint\Cruz_Saco.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.pdb
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.genruntimeconfig.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\ref\Cruz_Saco.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Apoderado\Index.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Apoderado\Create.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Apoderado\Edit.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Apoderado\Delete.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Estudiante\Index.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Estudiante\Create.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Estudiante\Edit.cshtml.g.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Estudiante\Delete.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.json
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.exe
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.deps.json
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.json
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.dev.json
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ClosedXML.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Irony.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\SixLabors.Fonts.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\XLParser.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.AssemblyReference.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfoInputs.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfo.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\scopedcss\bundle\Cruz_Saco.styles.css
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Manifest.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.input.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.output.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorCoreGenerate.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\AperturarAño\Create.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\AperturarAño\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Apoderado\Create.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Apoderado\Delete.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Apoderado\Edit.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Apoderado\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Estudiante\Create.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Estudiante\Delete.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Estudiante\Edit.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Estudiante\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Informe\InformePagos.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Pago\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Seguridad\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Create.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Delete.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Edit.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CopyComplete
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\refint\Cruz_Saco.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.genruntimeconfig.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\ref\Cruz_Saco.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\Menu.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\appsettings.json
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.exe
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.deps.json
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.json
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.runtimeconfig.dev.json
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ClosedXML.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Humanizer.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Irony.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\SixLabors.Fonts.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\XLParser.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Datos.pdb
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\bin\Debug\net5.0\Entidad.pdb
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.AssemblyReference.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfoInputs.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.AssemblyInfo.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CoreCompileInputs.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorAssemblyInfo.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\scopedcss\bundle\Cruz_Saco.styles.css
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Manifest.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\Cruz_Saco.StaticWebAssets.Pack.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.Cruz_Saco.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.build.Cruz_Saco.props
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Cruz_Saco.props
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Cruz_Saco.props
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.input.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.TagHelpers.output.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorCoreGenerate.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\AperturarAño\Create.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\AperturarAño\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Apoderado\Delete.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Apoderado\Edit.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Apoderado\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Estudiante\Create.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Estudiante\Delete.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Estudiante\Edit.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Estudiante\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Informe\InformePagos.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Pago\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Seguridad\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Create.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Delete.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Edit.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Servicio\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\Menu.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.RazorTargetAssemblyInfo.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.Views.pdb
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.csproj.CopyComplete
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\refint\Cruz_Saco.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.pdb
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Cruz_Saco.genruntimeconfig.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\ref\Cruz_Saco.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\ConsultaPagosCliente\PagoCliente.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\Apoderado\Create.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\ConsultaPagosCliente\Historial.cshtml.g.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Cruz_Saco\obj\Debug\net5.0\Razor\Views\ConsultaPagosCliente\HistorialAdmin.cshtml.g.cs

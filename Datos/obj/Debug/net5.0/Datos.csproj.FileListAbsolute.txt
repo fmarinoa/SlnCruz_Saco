@@ -1,0 +1,120 @@
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.pdb
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.pdb
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\obj\Debug\net5.0\refint\Datos.dll
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Users\franc\OneDrive\Documentos\IDAT\Proyecto Certificador de Desarrollo de Software II\SlnCruz_Saco\Datos\obj\Debug\net5.0\ref\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\refint\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto1\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\ref\Datos.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.pdb
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.pdb
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\refint\Datos.dll
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Users\franc\Downloads\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\ref\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\refint\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto3\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\ref\Datos.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.pdb
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.pdb
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\refint\Datos.dll
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Users\franc\Downloads\fer\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\ref\Datos.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.pdb
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.pdb
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\refint\Datos.dll
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Mis propios proyectos\CRUZ SACO\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\ref\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\refint\Datos.dll
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Users\Desarrollador 3\Downloads\proyecto\proyecto\SlnCruz_Saco\Datos\obj\Debug\net5.0\ref\Datos.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\bin\Debug\net5.0\Datos.pdb
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\bin\Debug\net5.0\Entidad.pdb
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\obj\Debug\net5.0\refint\Datos.dll
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Users\franc\Downloads\fer\last\SlnCruz_Saco\Datos\obj\Debug\net5.0\ref\Datos.dll

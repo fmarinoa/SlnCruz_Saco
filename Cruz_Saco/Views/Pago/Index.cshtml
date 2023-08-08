@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Entidad.Pago.enPago>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <form method="get" action="@Url.Action("Index", "Pago")">
+        <span>Tipo de Pago: </span>
+        <input type="text" name="tipo" />
+        <br />
+         <span>Fecha desde: </span>
+        <input type="date" name="f_ini" />
+        <br />
+         <span>Fecha hasta: </span>
+        <input type="date" name="f_fin" />
+
+        <button type="submit">Buscar</button>
+    </form>
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Codigo_Estudiante)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombres_Estudiantes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Codigo_Pago)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Desc_Pago)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Monto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ajuste_manual)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha_Pago)
+            </th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Codigo_Estudiante)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombres_Estudiantes)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Codigo_Pago)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Desc_Pago)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Monto)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Ajuste_manual)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Fecha_Pago)
+                    </td>
+         
+                </tr>
+        }
+    </tbody>
+</table>
+</body>
+</html>

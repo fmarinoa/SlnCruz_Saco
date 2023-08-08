@@ -1,0 +1,59 @@
+﻿@model Cruz_Saco.Models.User
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Inhabilitar</title>
+</head>
+<body>
+
+    <h3>¿Estás seguro de Inhabilitar este usuario?</h3>
+<div>
+    <h4>Usuario</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Código)
+        </dt>
+        <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Código)
+        </dd>
+        <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Usuario)
+        </dt>
+        <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Usuario)
+        </dd>
+        <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Contraseña)
+        </dt>
+        <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Contraseña)
+        </dd>
+        <!--dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Perfil)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CodigoPerfil)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+        <dd-- class = "col-sm-10">
+            @Html.DisplayFor(model => model.Estado)
+        </dd-->
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="submit" value="Inhabilitar" class="btn btn-danger" /> |
+        <a asp-action="Index">Regresar al listado</a>
+    </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,115 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <title>Index</title>
+    <style>
+        
+        body {
+            background-color: #FFFF66;
+            background-size: 100% 100%;
+        }
+        .container {
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        padding: 40px;
+        border-radius: 20px;
+            background: #002147;
+        backdrop-filter: blur(25px);
+        border: 2px solid rgba(146, 143, 151, 0.5);
+        box-shadow: 0 0 30px rgba(0,0,0,.5);
+        max-width: 700px;
+        margin: 0 auto;
+        color:yellow
+    }
+
+
+    </style>
+</head>
+<body>
+    <div class="container" >
+        <div class="row justify-content-center">
+            <div class="col-md-5">
+                <h1 class="text-center mb-3">Iniciar sesión</h1>
+                <form>
+                    <div class="form-group">
+                        <label for="txtUser">Usuario</label>
+                        <input type="text" class="form-control" id="txtUser" placeholder="Ingresa tu usuario">
+                    </div>
+                    <div class="form-group">
+                        <label for="txtPass">Contraseña</label>
+                        <input type="password" class="form-control" id="txtPass" placeholder="Ingresa tu contraseña">
+                    </div>
+                    <button type="submit" id="btnIngresar" class="btn btn-primary btn-block">Iniciar sesión</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+
+            
+
+            $("#btnIngresar").click(function () {
+
+                var oUser = {};
+                oUser.Usuario = $("#txtUser").val();
+                oUser.Contraseña = $("#txtPass").val();
+
+                //oUser.Usuario = "admin";
+                //oUser.Contraseña = "123456";
+
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("Login","Seguridad")',
+                    data: JSON.stringify(oUser),
+                    dataType: "json",
+                    contentType: "application/json; charset=utf-8",
+                    success: function (data) {
+
+                        //debugger;
+
+                        if (data.codigo == "0") {
+                            alert(data.mensaje);
+                        }
+                        else {
+                            alert(data.mensaje);
+
+                            // Envio el codigo del perfil del usuario logueado al controlador, para posteriormente armar el menu de opciones dinamico de acuerdo a sus permisos
+                            // Para enviar variables a traves de url, la primera variable se concatena con '?' , para el resto de variables se usa '&'
+                            // Por ejemplo, si quiero enviar 3 variables a un metodo del controller: codigo, nombre y edad, se deberia concatenar: /Controlador/Accion?codigo=123&nombre=fernando&edad=29
+
+                            var url = '@Url.Action("Index","Home")';
+
+                            //window.location.href = url + '?nPerfil=' + data.perfil;
+                            window.location.href = url;
+
+                        }
+                            
+                    },
+                    error: function () {
+                        alert("Error while inserting data");
+                    }
+                });
+                return false;
+            });
+
+            //$("#btnIngresar").click();
+        });
+    </script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

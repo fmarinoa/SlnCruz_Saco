@@ -14,7 +14,7 @@ Este proyecto tiene como objetivo desarrollar un sistema de administración de p
 
 ![image](https://github.com/francoedson/SlnCruz_Saco/assets/123432025/e2db21af-2b2b-46a6-a3a8-3c4130d5fb64)
 
-*Vista principal *
+*Vista principal*
 
 ![image](https://github.com/francoedson/SlnCruz_Saco/assets/123432025/ce5671a2-db64-48b1-896d-47280b78d090)
 

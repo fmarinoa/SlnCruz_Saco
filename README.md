@@ -14,11 +14,11 @@ Este proyecto tiene como objetivo desarrollar un sistema de administración de p
 
 ![image](https://github.com/francoedson/SlnCruz_Saco/assets/123432025/e2db21af-2b2b-46a6-a3a8-3c4130d5fb64)
 
-*Vista principal del historial de pagos.*
+*Vista principal *
 
 ![image](https://github.com/francoedson/SlnCruz_Saco/assets/123432025/ce5671a2-db64-48b1-896d-47280b78d090)
 
-*Vista de edición de montos ajustados.*
+*Vista de uno de los cruds*
 
 ## Configuración
 
@@ -28,12 +28,6 @@ Para configurar el proyecto en tu entorno de desarrollo, sigue estos pasos:
 2. Abre el proyecto en tu entorno de desarrollo preferido.
 3. Configura la cadena de conexión a la base de datos en el archivo `appsettings.json`.
 
-```json
-{
-  "ConnectionStrings": {
-    "cn": "Server=tuservidor;Database=basededatos;User=usuario;Password=contraseña;"
-  }
-}
 
 ## 📧Contacto
 
